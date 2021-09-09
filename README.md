@@ -12,7 +12,7 @@ Created using
 4. Custom themes using createMuiTheme, ThemeProvider and makeStyles
 5. JSON Server
 
-### Video Walktrough
+### Screenshots
 
 ![](https://github.com/shishirchulliyil/material-ui-react-app/blob/main/note-main-page.png?raw=true)
 ![](https://github.com/shishirchulliyil/material-ui-react-app/blob/main/note-create-page.png?raw=true)
