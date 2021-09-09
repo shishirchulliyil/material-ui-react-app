@@ -11,3 +11,8 @@ Created using
 3. Using useHistory, useLocation hooks
 4. Custom themes using createMuiTheme, ThemeProvider and makeStyles
 5. JSON Server
+
+### Video Walktrough
+
+![](https://github.com/shishirchulliyil/material-ui-react-app/blob/main/note-main-page.png?raw=true)
+![](https://github.com/shishirchulliyil/material-ui-react-app/blob/main/note-create-page.png?raw=true)
